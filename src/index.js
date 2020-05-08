@@ -7,11 +7,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <div>
-    <Avatar  />
-    <Avatar  />
-    <Avatar  />
-    <Avatar  /></div>
+    <Avatar />  
   </React.StrictMode>,
   document.getElementById('root')
 );
